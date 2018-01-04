@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Build it Bigger</string>
-    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="instructions">Press the button for a delicious joke!Download paid version for ad free experience</string>
     <string name="button_text">Tell Joke</string>
     <string name="action_settings">Settings</string>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="banner_id">ca-app-pub-2494457202276302/7261925470</string>
+    <string name="banner_ad_unit_id">ID FOR AD.CREATE USING GMAIL</string>
+    <string name="banner_id">ID FOR AD.CREATE USING GMAIL</string>
 </resources>
